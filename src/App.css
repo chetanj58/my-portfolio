@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Bigelow+Rules&display=swap');
+.App{
+    font-family: 'Nunito', sans-serif;
+}
 :root{
     --nav-color: hsl(210, 11%, 15%);
     --nav-color-hover: hsl(210, 11%, 45%);
@@ -6,3 +10,4 @@
     --font-color:  hsl(0, 0%, 100%);
     --font-color-hover: hsl(0, 0%, 60%);
 }
+
