@@ -10,7 +10,7 @@ function Header() {
         strings={[
           ' ',
           'A Software Engineer',
-          'Also known as an',
+          'Also known as a',
           'Front-end developer',
           'Or!',
           'a coder']}
