@@ -11,7 +11,10 @@ function AboutMe() {
       </div>
       <div className='about__text'>
         <h1>About Me</h1>
-        <p>My Detail Information</p>
+        <p>As a Full Stack React Developer offered scalable software solutions. As a part of a cross-functional team
+        that’s responsible for the full web development life cycle, from conception to deployment. I am comfortable
+        around both front-end and back-end coding languages, development frameworks and third-party libraries
+        and also be a team player with a knack for visual design and utility.</p>
       </div>
     </div>
   )

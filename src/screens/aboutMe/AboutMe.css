@@ -8,8 +8,8 @@
 .about__container img {
   border-radius: 50%;
   border: 0.5px solid rgb(218, 218, 218);
-  max-width: 100px;
-  max-height: 100px;
+  max-width: 150px;
+  max-height: 150px;
   object-fit: scale-down;
 }
 .about__text {
