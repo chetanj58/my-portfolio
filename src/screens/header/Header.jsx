@@ -7,13 +7,13 @@ function Header() {
     <div className='main-info'>
       <h1>What I am</h1>
       <Typed
-      strings={[
+        strings={[
           ' ',
-        'A Software Engineer',
-        'Also known as an',
-        'Front-end developer',
-        'Or!',
-        'a coder']}
+          'A Software Engineer',
+          'Also known as an',
+          'Front-end developer',
+          'Or!',
+          'a coder']}
         typeSpeed={40}
         backSpeed={50}
         loop
