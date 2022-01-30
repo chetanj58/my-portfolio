@@ -1,6 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Bigelow+Rules&display=swap");
-.App {
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;1,300&display=swap');
+/* .App {
   font-family: "Nunito", sans-serif;
+} */
+.App{
+  font-family: 'Source Code Pro', monospace;
 }
 :root {
   --nav-color: hsl(210, 11%, 15%);
